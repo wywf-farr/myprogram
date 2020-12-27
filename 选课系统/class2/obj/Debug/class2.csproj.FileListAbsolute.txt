@@ -1,0 +1,46 @@
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\bin\Debug\class2.exe.config
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.csprojResolveAssemblyReference.cache
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Form1.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Form2.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Form6.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Properties.Resources.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.csproj.GenerateResource.Cache
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\bin\Debug\class2.exe
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\bin\Debug\class2.pdb
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.exe
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.pdb
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Form3.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Form4.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Form5.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2\class2\obj\Debug\class2.Form7.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\bin\Debug\class2.exe.config
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.exe
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.pdb
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\bin\Debug\class2.exe
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\bin\Debug\class2.pdb
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\bin\Debug\IrisSkin4.dll
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.csprojResolveAssemblyReference.cache
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Form1.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Form2.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Form3.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Form4.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Form5.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Form6.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Form7.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.Properties.Resources.resources
+D:\task\C++\0.2作业\题解\tj16--ok\class2 - 美化\class2\obj\Debug\class2.csproj.GenerateResource.Cache
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\bin\Debug\class2.exe.config
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.exe
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.pdb
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\bin\Debug\class2.exe
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\bin\Debug\class2.pdb
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.csprojResolveAssemblyReference.cache
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Form1.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Form2.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Form3.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Form4.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Form5.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Form6.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Form7.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.Properties.Resources.resources
+D:\win\课件\大三上\数据库安全实训\学生选课\class2\obj\Debug\class2.csproj.GenerateResource.Cache
